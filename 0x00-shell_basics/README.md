@@ -1,3 +1,3 @@
 #!/bin/bash
-pwd
+prints a file
 
